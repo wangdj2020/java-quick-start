@@ -40,6 +40,7 @@
     </distributionManagement> -->
 
 
+
     <!-- 父模块依赖统一管理，主要负责声明版本 -->
     <!-- 原则上子模块应该避免声明依赖的版本，避免依赖冲突问题 -->
     <dependencyManagement>
